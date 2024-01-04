@@ -3,4 +3,6 @@ project(278assign3 C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(278assign3 Q2.c)
+add_executable(278assign3 postOrderTraversal.c
+searchTwoBSTs.c
+BSTToAVL.c)
