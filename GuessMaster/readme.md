@@ -1,4 +1,5 @@
 # GuessMaster
+A guessing game, where the user must guess the correct birth date of a randomly given entity.
 ## Object
 To get as many tickets as possible. This is done by correctly guessing the birth date of the given entity. The number of tickets awarded for a correct answer is the difficulty factor multiplied by 100. 
 ## How it works
