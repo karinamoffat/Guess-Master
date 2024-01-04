@@ -4,7 +4,7 @@ Solving three different problems involving trees
 Given the root of the tree, returns a list containing the postorder traversal of the tree
 - in **Main()**, build a tree and call **postOrder()** to print postorder traversal
 
-# Search Two BSTs
+# Merge BST
 Given two binary search trees, returns the elements of both trees sorted in increasing order
 - in **Main()** create two BSTs and call **Merge()** to print the sorted elements of both trees
 - **Merge()** takes the root of both BSTs and returns the BST in a sorted order. Does this by merging the two trees, and then outputs an array of integers denoting the node values using breadth-first traversal
